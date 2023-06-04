@@ -3,4 +3,5 @@
 
 <p align = "center">
 <img src = "https://github.com/kreslotim/Lego-Car/blob/main/Photos/photo_2023-04-16_13-37-55.jpg">
+<img src = "https://github.com/kreslotim/Lego-Car/blob/main/Photos/photo_2023-04-16_13-38-03.jpg">
 </p>
